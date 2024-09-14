@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
 <h1 align="center">💡 Welcome to my GitHub 💡</h1>
 
@@ -13,10 +12,6 @@
  
  </div>
 
-<p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer&text=&fontColor=ffffff&fontSize=20&fontAlignY=32" alt="Footer Banner" />
-</p>
-<!--
 **williamsenaoficial/williamsenaoficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
